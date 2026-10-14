@@ -1,0 +1,17 @@
+C:\Users\edwin\source\repos\src\desafio03.Application\bin\Debug\net8.0\desafio03.Application.deps.json
+C:\Users\edwin\source\repos\src\desafio03.Application\bin\Debug\net8.0\desafio03.Application.dll
+C:\Users\edwin\source\repos\src\desafio03.Application\bin\Debug\net8.0\desafio03.Application.pdb
+C:\Users\edwin\source\repos\src\desafio03.Application\bin\Debug\net8.0\desafio03.Domain.dll
+C:\Users\edwin\source\repos\src\desafio03.Application\bin\Debug\net8.0\desafio03.Domain.pdb
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio03.Application.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio03.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio03.Application.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio03.Application.AssemblyInfo.cs
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio03.Application.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio0.4F18E32A.Up2Date
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio03.Application.dll
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\refint\desafio03.Application.dll
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\desafio03.Application.pdb
+C:\Users\edwin\source\repos\src\desafio03.Application\obj\Debug\net8.0\ref\desafio03.Application.dll
+C:\Users\edwin\source\repos\src\desafio03.Application\bin\Debug\net8.0\desafio03.Infrastructure.dll
+C:\Users\edwin\source\repos\src\desafio03.Application\bin\Debug\net8.0\desafio03.Infrastructure.pdb

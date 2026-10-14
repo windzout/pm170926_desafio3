@@ -1,0 +1,34 @@
+version: '3.4'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: desafio03_sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Your_password123
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"
+    networks:
+      - desafio-net
+
+  api:
+    image: desafio03.api
+    container_name: desafio03_api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=Desafio03Db;User Id=sa;TrustServerCertificate=True;Password=Your_password123
+    depends_on:
+      - sqlserver
+    networks:
+      - desafio-net
+
+networks:
+  desafio-net:
+    driver: bridge
